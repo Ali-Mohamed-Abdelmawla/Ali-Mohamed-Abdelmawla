@@ -1,3 +1,4 @@
+https://tenor.com/bbLYF.gif
 # Hi there, I'm Ali 👋
 
 I'm a front-end web developer from Egypt, passionate about creating efficient and visually appealing web applications.
