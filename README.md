@@ -1,4 +1,5 @@
 ![Hello World GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW16MGJ5aHU3cjJtdXl0emcyem44aHlnd2Z6ODZkbG00bW5yOG5rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 # Hi there, I'm Ali 👋
 
 I'm a front-end web developer from Egypt, passionate about creating efficient and visually appealing web applications.
