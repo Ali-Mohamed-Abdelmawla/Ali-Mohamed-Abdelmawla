@@ -11,6 +11,11 @@ I'm a front-end web developer from Egypt, passionate about creating efficient an
 - **Work Style:** A mix of both independent and team-oriented work.
 
 ## 💻 Languages and Tools
+<style>
+  a {
+  text-decoration: none !important;
+}
+</style>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
