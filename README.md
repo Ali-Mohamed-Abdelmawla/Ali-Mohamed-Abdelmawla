@@ -12,7 +12,7 @@ I'm a front-end web developer from Egypt, passionate about creating efficient an
 
 ## 💻 Languages and Tools
 <style>
-  a {
+  h3 p a {
   text-decoration: none !important;
 }
 </style>
