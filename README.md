@@ -1,4 +1,4 @@
-![Alt Text](https://tenor.com/bbLYF.gif)
+![Hello World GIF](https://media.giphy.com/media/3o6Zt6Jz58Go9YZo8w/giphy.gif)
 # Hi there, I'm Ali 👋
 
 I'm a front-end web developer from Egypt, passionate about creating efficient and visually appealing web applications.
