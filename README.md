@@ -1,4 +1,4 @@
-![Hello World GIF](https://media.giphy.com/media/3o6Zt6Jz58Go9YZo8w/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
 # Hi there, I'm Ali 👋
 
 I'm a front-end web developer from Egypt, passionate about creating efficient and visually appealing web applications.
