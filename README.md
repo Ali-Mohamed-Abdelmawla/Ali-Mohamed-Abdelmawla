@@ -33,8 +33,7 @@ I'm a front-end web developer from Egypt, passionate about creating efficient an
 </p>
 
 ## 🚀 Current Learning
-- **Currently Learning:** Redux
-- **Next Up:** Next.js
+- **Currently Learning:** php
 
 ## 🎮 Hobbies
 - Gaming: Brawlhalla, Minecraft, GTA V
