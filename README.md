@@ -5,7 +5,7 @@
 I'm a front-end web developer from Egypt, passionate about creating efficient and visually appealing web applications.
 
 ## 🌐 About Me
-- **Role:** Front-end Web Developer
+- **Role:**  Web Developer
 - **Location:** Egypt
 - **Motivation:** The ever-evolving nature of web development drives me to learn and grow continuously.
 - **Work Style:** A mix of both independent and team-oriented work.
