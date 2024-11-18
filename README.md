@@ -36,13 +36,6 @@ I'm a front-end web developer from Egypt, passionate about creating efficient an
 <a href="https://graphql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" />
 </a>
-<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/XAMPP_logo.svg/512px-XAMPP_logo.svg.png" alt="xampp" width="40" height="40" />
-</a>
-<a href="https://ngrok.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-  <img src="https://ngrok.com/static/img/favicon/favicon-96x96.png" alt="ngrok" width="40" height="40" />
-</a>
-
 </p>
 
 ## 🚀 Current Learning
