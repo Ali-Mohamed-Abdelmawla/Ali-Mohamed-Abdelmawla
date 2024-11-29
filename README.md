@@ -45,12 +45,12 @@ I'm a **front-end web developer** from Egypt, passionate about crafting efficien
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Mohamed-Abdelmawla&theme=dark&hide_border=false">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Mohamed-Abdelmawla&theme=tokyonight&hide_border=false">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Mohamed-Abdelmawla&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Mohamed-Abdelmawla&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Mohamed-Abdelmawla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Mohamed-Abdelmawla&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
   </a>
 </p>
